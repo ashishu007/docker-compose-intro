@@ -1,2 +1,2 @@
 # docker-compose-intro
-Learning docker-compose
+Learning docker-compose from Docker website.
